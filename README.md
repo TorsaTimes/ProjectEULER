@@ -1,5 +1,7 @@
 # Project Euler Challenges
 
+![Bildbeschreibung](picture/euler.jpg)
+
 Dieses Repository enthält meine Lösungen für die Project Euler Challenges (https://projecteuler.net/).
 
 ## Über
